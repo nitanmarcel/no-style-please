@@ -33,6 +33,24 @@ entries:
           - title: with subsubitems
           - title: example page
             url: about
+
+  - title: addons 
+    entries:
+      - title: this fork brings the following gems
+        entries:
+          - title: premonition
+            url: https://github.com/lazee/premonition
+          - title: timeago
+            url: https://github.com/markets/jekyll-timeago
+          - title: 404 page
+            url: 404.html
+          - title: jekyll-manager
+            url: https://github.com/ashmaroli/jekyll-manager
+          - title: jekyll-default-layout
+            url: https://github.com/benbalter/jekyll-default-layout
+          - title: google analytics
+            url: https://michaelsoolee.com/google-analytics-jekyll/
+
   - title: PRO TIP
     entries:
       - title: to edit this menu, edit _data/menu.yml file
