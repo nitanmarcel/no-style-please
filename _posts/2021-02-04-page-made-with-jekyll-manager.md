@@ -1,5 +1,4 @@
 ---
-layout: post
 title: This page was made with jekyll-manager
 ---
 

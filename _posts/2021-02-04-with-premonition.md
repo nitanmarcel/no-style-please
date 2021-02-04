@@ -1,7 +1,3 @@
----
-layout: post
----
-
 > note ""
 > No headers in here
 

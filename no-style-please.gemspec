@@ -19,5 +19,6 @@ Gem::Specification.new do |spec|
   spec.add_runtime_dependency "premonition", "~> 4.0.1"
   spec.add_runtime_dependency "jekyll-timeago", "~> 0.14.0"
   spec.add_runtime_dependency "jekyll-manager", "~> 0.1.1"
+  spec.add_runtime_dependency "jekyll-default-layout", "~> 0.1.5"
 
 end

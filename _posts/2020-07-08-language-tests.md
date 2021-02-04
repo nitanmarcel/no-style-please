@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Language Tests"
 category: example2
 ---
