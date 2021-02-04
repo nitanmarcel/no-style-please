@@ -5,6 +5,7 @@ url: https://nitanmarcel.com # root address of the site
 baseurl: "" # subpath of the site, e.g. "/blog"f the site, e.g. "/blog"
 description: > # description of the site (multiple lines allowed)
   Fork of <a href="https://github.com/riggraz/no-style-please">riggraz/no-style-please</a>. Template modified to fit my needs on my <a href="https://nitanmarcel.com">website</a>
+google_analytics: # Google analytics id
 
 permalink: /:slug.html
 
