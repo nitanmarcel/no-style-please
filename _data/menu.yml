@@ -39,8 +39,6 @@ entries:
         entries:
           - title: premonition
             url: https://github.com/lazee/premonition
-          - title: timeago
-            url: https://github.com/markets/jekyll-timeago
           - title: 404 page
             url: 404.html
           - title: jekyll-manager
