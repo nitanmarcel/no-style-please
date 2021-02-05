@@ -49,6 +49,10 @@ entries:
             url: https://github.com/benbalter/jekyll-default-layout
           - title: google analytics
             url: https://michaelsoolee.com/google-analytics-jekyll/
+          - title: about layout with social link
+            url: about
+          - title: optional attribute for phone number in about
+            url: resume
 
   - title: PRO TIP
     entries:

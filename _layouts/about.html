@@ -1,0 +1,20 @@
+---
+layout: default
+---
+
+{%- include back_link.html -%}
+<div class="about-row">
+    {%- if site.author -%}
+    <h1 class="about-author">
+        {{ site.author | escape }}
+    </h1>
+    {%- endif -%}
+    {%- if site.theme_config.avatar_url -%}
+    <p class="about-avatar">
+        <img src="{{ site.theme_config.avatar_url }}">
+    </p>
+    {%- endif -%}
+</div>
+{%- include social.html -%}
+
+{{ content }}

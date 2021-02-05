@@ -90,3 +90,26 @@ img {
   display: block;
   margin: 0 auto;
 }
+
+
+// --------------   ABOUT -------------- //
+
+.about-row {
+  display: flex;
+}
+
+.about-author,
+.about-avatar {
+  flex: 50%;
+}
+
+.social-media-list {
+  margin-left: 0;
+  display: flex;
+  li {
+    float: left;
+    a {
+      padding-right: 30px;
+    }
+  }
+}

@@ -19,6 +19,33 @@ theme_config:
   back_home_text: ".." # customize text for homepage link in post layout
   date_format: "%Y-%m-%d" # customize how date is formatted
   show_description: true # show blog description in home page
+  avatar_url: "https://i.loli.net/2019/08/26/JzCLhDWPEybZr2T.jpg" # avatar in about page
+
+    # generate social links in about page.
+  social_links:
+    # twitter: 
+    github:  huangyz0918
+    rss: RSS
+    # dribbble: 
+    facebook: huangyz0918
+    # flickr:   
+    # instagram: 
+    linkedin: yizheng-huang
+    # pinterest: 
+    # youtube: 
+    # youtube_channel: 
+    # youtube_channel_name: 
+    # telegram: 
+    # googleplus: 
+    # microdotblog: 
+    # reddit: 
+
+    # Mastodon instances
+    # mastodon:
+    # - username: 
+    #   instance: 
+    # - username: 
+    #   instance: 
 
 sass:
   style: :compressed

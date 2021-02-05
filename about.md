@@ -1,5 +1,6 @@
 ---
 title: About
+layout: about
 ---
 
 This is an example page!
